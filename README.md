@@ -80,11 +80,11 @@ https://drive.google.com/drive/folders/1erbLbZfkdrBo5fBNuPR1sFVMkdXnivg7
 
 **Using the summary table, the project uncovered**:
 
- * ✔ High-margin but low-sales brands (198 brands)
- * ✔ Strong vendor dependency (Top 10 vendors = 65.69% of purchases)
- * ✔ 72% cost reduction via bulk purchasing
- * ✔ Unsold inventory capital worth $2.71M
- * ✔ Clear profitability differences validated using hypothesis testing
+✔ High-margin but low-sales brands (198 brands)
+✔ Strong vendor dependency (Top 10 vendors = 65.69% of purchases)
+✔ 72% cost reduction via bulk purchasing
+✔ Unsold inventory capital worth $2.71M
+✔ Clear profitability differences validated using hypothesis testing
 
  * All findings are documented in:
 📄 Vendor Performance Analysis Project Report.pdf
@@ -117,8 +117,48 @@ A fully interactive dashboard was created from the vendor_sales_summary table, c
 
  * **Scatter Plot**: Low-Performing Brands (low sales, high margins)
 
-Dashboard File:
+**Dashboard File**:
 📊 Vendor Performance Analysis Dashboard.pbix
 
-Layout Preview:
+**Layout Preview**:
 🖼 Vendor Performance Dashboard Layout.png
+
+ ## 📂 Repository Structure
+
+├── data/                        # Raw data files (via Drive link)
+├── logs/                        # Logs for pipeline execution
+├── Exploratory Data Analysis.ipynb
+├── Vendor Performance Analysis.ipynb
+├── vendor_sales_summary.csv
+├── Vendor Performance Analysis Dashboard.pbix
+├── Vendor Performance Analysis Project Report.pdf
+├── Vendor Performance Dashboard Layout.png
+├── ingestion.ipynb
+├── ingestion_db.py
+├── get_vendor_summary.py
+├── inventory_db
+└── README.md
+
+ ## 🛠️ Technologies Used
+
+ * Python (Pandas, NumPy, Matplotlib, SQLite3)
+
+ * SQL (SQLite)
+
+ * Power BI (DAX, interactive visuals)
+
+  * Jupyter Notebooks
+
+## 🚀 Key Outcomes
+
+ * Unified multi-table retail data into a single analytical summary table
+
+ * Identified critical vendor and brand performance patterns
+
+ * Built an enterprise-ready Power BI dashboard
+
+Delivered data-driven recommendations to improve profitability
+
+## 📧 Contact
+
+If you’d like help improving the dashboard, optimizing DAX, or expanding analysis—just ask!
