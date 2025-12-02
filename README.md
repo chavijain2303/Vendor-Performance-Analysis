@@ -125,8 +125,8 @@ A fully interactive dashboard was created from the vendor_sales_summary table, c
 
  ## 📂 Repository Structure
 
-├── data/                        # Raw data files (via Drive link)
-├── logs/                        # Logs for pipeline execution
+├── data/                                   # Raw data files (via Drive link)
+├── logs/                                   # Logs for pipeline execution
 ├── Exploratory Data Analysis.ipynb
 ├── Vendor Performance Analysis.ipynb
 ├── vendor_sales_summary.csv
@@ -134,10 +134,11 @@ A fully interactive dashboard was created from the vendor_sales_summary table, c
 ├── Vendor Performance Analysis Project Report.pdf
 ├── Vendor Performance Dashboard Layout.png
 ├── ingestion.ipynb
-├── ingestion_db.py
-├── get_vendor_summary.py
-├── inventory_db
+├── ingestion_db.py                         # Script for DB ingestion workflow
+├── get_vendor_summary.py                   # Generates vendor summary tables
+├── inventory_db                            # SQLite database folder
 └── README.md
+
 
  ## 🛠️ Technologies Used
 
