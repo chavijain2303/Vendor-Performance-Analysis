@@ -123,23 +123,6 @@ A fully interactive dashboard was created from the vendor_sales_summary table, c
 **Layout Preview**:
 🖼 Vendor Performance Dashboard Layout.png
 
- 📂 Repository Structure
-
-├── data/                                   # Raw data files (via Drive link)
-├── logs/                                   # Logs for pipeline execution
-├── Exploratory Data Analysis.ipynb
-├── Vendor Performance Analysis.ipynb
-├── vendor_sales_summary.csv
-├── Vendor Performance Analysis Dashboard.pbix
-├── Vendor Performance Analysis Project Report.pdf
-├── Vendor Performance Dashboard Layout.png
-├── ingestion.ipynb
-├── ingestion_db.py                         # Script for DB ingestion workflow
-├── get_vendor_summary.py                   # Generates vendor summary tables
-├── inventory_db                            # SQLite database folder
-└── README.md
-
-
  ## 🛠️ Technologies Used
 
  * Python (Pandas, NumPy, Matplotlib, SQLite3)
