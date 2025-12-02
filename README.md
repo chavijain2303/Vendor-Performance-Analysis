@@ -124,7 +124,6 @@ A fully interactive dashboard was created from the vendor_sales_summary table, c
 🖼 Vendor Performance Dashboard Layout.png
 
  ## 📂 Repository Structure
-
 ├── data/                                   # Raw data files (via Drive link)
 ├── logs/                                   # Logs for pipeline execution
 ├── Exploratory Data Analysis.ipynb
