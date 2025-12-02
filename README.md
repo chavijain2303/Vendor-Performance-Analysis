@@ -80,11 +80,11 @@ https://drive.google.com/drive/folders/1erbLbZfkdrBo5fBNuPR1sFVMkdXnivg7
 
 **Using the summary table, the project uncovered**:
 
-✔ High-margin but low-sales brands (198 brands)
-✔ Strong vendor dependency (Top 10 vendors = 65.69% of purchases)
-✔ 72% cost reduction via bulk purchasing
-✔ Unsold inventory capital worth $2.71M
-✔ Clear profitability differences validated using hypothesis testing
+ * High-margin but low-sales brands (198 brands)
+ * Strong vendor dependency (Top 10 vendors = 65.69% of purchases)
+ * 72% cost reduction via bulk purchasing
+ * Unsold inventory capital worth $2.71M
+ * Clear profitability differences validated using hypothesis testing
 
  * All findings are documented in:
 📄 Vendor Performance Analysis Project Report.pdf
